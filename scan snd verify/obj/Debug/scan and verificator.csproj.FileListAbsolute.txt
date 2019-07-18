@@ -1,0 +1,35 @@
+C:\Users\xlassix\Desktop\UI Support\bin\Debug\UISupportSample CS.exe
+C:\Users\xlassix\Desktop\UI Support\bin\Debug\UISupportSample CS.pdb
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.MainForm.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.Properties.Resources.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.VerificationForm.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\scan and verificator.csproj.GenerateResource.cache
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\scan and verificator.csproj.CoreCompileInputs.cache
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.exe
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.pdb
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\scan and verificator.csprojAssemblyReference.cache
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.admin_login.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.enrolled.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan and verificator.csprojAssemblyReference.cache
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\UI_Support.admin_login.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\UI_Support.enrolled.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\UI_Support.MainForm.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\UI_Support.VerificationForm.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan and verificator.csproj.GenerateResource.cache
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan and verificator.csproj.CoreCompileInputs.cache
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan_and_verify.Properties.Resources.resources
+C:\Users\xlassix\Desktop\scan snd verify\bin\Debug\scan.exe.config
+C:\Users\xlassix\Desktop\scan snd verify\bin\Debug\scan.exe
+C:\Users\xlassix\Desktop\scan snd verify\bin\Debug\scan.pdb
+C:\Users\xlassix\Desktop\scan snd verify\bin\Debug\MySql.Data.dll
+C:\Users\xlassix\Desktop\scan snd verify\bin\Debug\Google.Protobuf.dll
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan and verificator.csproj.CopyComplete
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan.exe
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan.pdb
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan_and_verify.admin_login.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan_and_verify.enrolled.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan_and_verify.EnrollmentForm.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan_and_verify.user.resources
+C:\Users\xlassix\Desktop\scan snd verify\obj\Debug\scan_and_verify.VerificationForm.resources

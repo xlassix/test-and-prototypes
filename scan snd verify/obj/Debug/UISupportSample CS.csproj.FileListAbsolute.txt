@@ -1,0 +1,12 @@
+C:\Users\xlassix\Desktop\UI Support\bin\Debug\UISupportSample CS.exe
+C:\Users\xlassix\Desktop\UI Support\bin\Debug\UISupportSample CS.pdb
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.csprojAssemblyReference.cache
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.MainForm.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.Properties.Resources.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.VerificationForm.resources
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.csproj.GenerateResource.cache
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.csproj.CoreCompileInputs.cache
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.exe
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UISupportSample CS.pdb
+C:\Users\xlassix\Desktop\UI Support\obj\Debug\UI_Support.start.resources

@@ -18,5 +18,5 @@ def interpolate(instance,prices,sample):
     ans=((ys[1]-ys[0])*(sample-xs[1])/(xs[1]-xs[0]) +ys[1])*100
     #round and format failed to approx 6.125 to 6.13
     print(ans)
-    return round(ans/100 if ans%1 <0.5 else  (ans+1)/100,2)
+    return (ans//1)/100 if ans%1 <0.5 else  ((ans+1)//1)/100
 print(interpolate(instance,prices,sample))
